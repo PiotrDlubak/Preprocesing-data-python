@@ -1,8 +1,8 @@
 ﻿wyniki ankiety - mierniki ekonomiczne;;
-nr_respondenta;miara;wartość
+id.;miara;wartość
 R_001;dochody roczne;54
 R_001;wydatki_na_żywność_mc;750
-R_002;dochody roczne;26
+R_002;dochody roczne;26tys
 R_002;wydatki_na_żywność_mc;2300
 R_003;dochody roczne;50
 R_003;wydatki_na_żywność_mc;430
@@ -36,7 +36,7 @@ R_017;dochody roczne;32
 R_017;wydatki_na_żywność_mc;656
 R_018;dochody roczne;32
 R_018;wydatki_na_żywność_mc;667
-R_019;dochody roczne;33
+R_019;dochody roczne;99
 R_019;wydatki_na_żywność_mc;669
 R_020;dochody roczne;54
 R_020;wydatki_na_żywność_mc;669
